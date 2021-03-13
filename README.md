@@ -1,2 +1,2 @@
 # robsalmonnotificationfrontend
-# Test of the JavaScript notifications API
+Test of the JavaScript notifications API
