@@ -1,0 +1,22 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Azure frontend of notifications API test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsalmon/robsalmonnotificationfrontend.git"
+  },
+  "author": "Robert Salmon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robsalmon/robsalmonnotificationfrontend/issues"
+  },
+  "homepage": "https://github.com/robsalmon/robsalmonnotificationfrontend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
